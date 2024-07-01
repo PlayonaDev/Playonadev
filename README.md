@@ -1,4 +1,4 @@
-# Bem-vindo, me chamo Vitor Augusto, estudante de Desenvolvimento MOBILE!
+# Bem-vindo, me chamo Vitor Augusto, Desebvolvedor Jr FullStack
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Playonadev&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)/>
